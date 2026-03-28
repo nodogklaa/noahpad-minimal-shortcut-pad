@@ -1,2 +1,2 @@
-# noahpad-minimal-shortcut-pad
+# noahpad
 Hackpad project
