@@ -4,6 +4,8 @@ My friend told me about this event abit ago and I finally got it done. This is t
 Since this is my first time and it was a bit rushed (due to tests coming up) I doubt everything will work correctly.
 Also my firmware doesnt support the OLED at this momment. This mainly because I forgot and I dont currently have the time to fix it. Once I get everything else working I will add it in, hopefully its a simple fix.
 
+It is a 11 key macropad with an encoder and Oled display and uses QMK firmware.
+
 **Specifications**
 BOM
 -11x Cherry MX Switches
