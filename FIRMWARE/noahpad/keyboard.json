@@ -1,0 +1,48 @@
+{
+  "keyboard_name": "noahpad",
+  "manufacturer": "noah",
+  "processor": "RP2040",
+  "bootloader": "rp2040",
+  
+  "vendor_id": "0xFEED",
+  "product_id": "0x6060",
+  "device_ver": "0x0001",
+
+  "matrix_pins": {
+    "rows": ["GP3", "GP4", "GP2"],
+    "cols": ["GP26", "GP27", "GP28", "GP29"]
+  },
+
+  "diode_direction": "COL2ROW",
+
+  "features": {
+    "encoder": true
+  },
+
+  "encoder": {
+    "rotary": [
+      { "pin_a": "GP0", "pin_b": "GP1" }
+    ]
+  },
+
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {"matrix": [0, 0], "x": 0, "y": 0},
+        {"matrix": [0, 1], "x": 1, "y": 0},
+        {"matrix": [0, 2], "x": 2, "y": 0},
+        {"matrix": [0, 3], "x": 3, "y": 0},
+
+        {"matrix": [1, 0], "x": 0, "y": 1},
+        {"matrix": [1, 1], "x": 1, "y": 1},
+        {"matrix": [1, 2], "x": 2, "y": 1},
+        {"matrix": [1, 3], "x": 3, "y": 1},
+
+        {"matrix": [2, 0], "x": 0, "y": 2},
+        {"matrix": [2, 1], "x": 1, "y": 2},
+        {"matrix": [2, 2], "x": 2, "y": 2},
+        {"matrix": [2, 3], "x": 3, "y": 2}
+      ]
+    }
+  }
+}
