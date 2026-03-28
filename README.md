@@ -25,22 +25,27 @@ Made in OnShape
 <img width="1383" height="829" alt="Screenshot 2026-03-29 003007" src="https://github.com/user-attachments/assets/218fdfdc-52c5-4dae-9e30-46138b241024" />
 
 **PCB** 
+
 This is my PCB, it was made in KiCad.
 
 PCB:
+
 <img width="914" height="900" alt="image" src="https://github.com/user-attachments/assets/58e0ea68-953f-4871-b721-64f775ccaaaf" />
 
 
 Schematic:
+
 <img width="856" height="686" alt="image" src="https://github.com/user-attachments/assets/d6a2a503-57ba-4c91-b726-e11b21d8faba" />
 
 
 **FIRMWARE**
+
 I used qmk firmware. This stage took me the longest by far.
 As I mentioned before I forgot to include the oled in it, but I plan to fix it once school calms down again.
 
 
 **More CAD Images**
+
 <img width="429" height="415" alt="image" src="https://github.com/user-attachments/assets/6476d95f-0fa8-4eeb-807a-852c8cae02d3" />
 <img width="422" height="400" alt="image" src="https://github.com/user-attachments/assets/680f7c0e-256d-4999-9080-e523683363b5" />
 
